@@ -1,0 +1,24 @@
+{
+  "server_name": "CrownMc",
+  "nice_name": "CrownMc.de",
+  "direct_ip": "crownmc.de",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web_shop": "https://store.crownmc.de"
+  },
+  "brand": {
+    "primary": "#FFA500"
+  },
+  "location": {
+	"city": "Frankfurt", 
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "gamemodes": {
+	"skypvp": {
+	  "name": "skypvp"
+	}
+  }
+}
